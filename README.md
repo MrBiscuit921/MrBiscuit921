@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![Current NZ Time](https://www.timeanddate.com/scripts/ts.php?loc=264&iso=2025-02-10T12:00:00&c=0)
+
+## Current New Zealand Time (NZT)
+![Current Time](https://www.timeanddate.com/worldclock/fullscreen.html?n=22)
+
 <!--
 **MrBiscuit921/MrBiscuit921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
