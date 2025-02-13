@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Current NZ Time](https://www.timeanddate.com/scripts/ts.php?loc=264&iso=2025-02-10T12:00:00&c=0)
-
 ## Current New Zealand Time (NZT)
 ![Current Time](https://timezone-to-image.vercel.app/api/generate-image?timezone=Pacific/Auckland)
 
